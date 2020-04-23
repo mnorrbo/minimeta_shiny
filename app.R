@@ -3,11 +3,11 @@ source("global.R")
 #define UI for shiny app
 ui <- fluidPage(
   
-  theme = "styles.css",
+  #theme = "styles.css",
   
   # Application title
   headerPanel(title = "Hack your own internal meta-analysis!",
-              windowTitle = "InternalMeta"),
+              windowTitle = "minimeta hack"),
   
   # Sidebar with a slider input for sample size and for effect size
   sidebarLayout(
