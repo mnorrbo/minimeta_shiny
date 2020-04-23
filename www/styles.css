@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap');
+
+h1 {
+  font-family: 'Beth Ellen', cursive;
+  color: #1e1e4d
+}
+
+#start{color: white;
+	font-size: 10px;
+	background-color: #ba9ea6}
+
+#newstudy{color: white;
+	font-size: 10px;
+	background-color: #8d91a4}
+
+#remove{color: white;
+	font-size: 10px;
+	background-color: #4e83a2}
+
+
+#meta{color: white;
+	font-size: 10px;
+	background-color: #2a4883}
+
+#results{font-size: 9px}
+
+#metadescribe{color: white;
+	font-size: 20px;
+}
+
+label[for="n"] + span.irs span.irs-bar,
+label[for="n"] + span.irs span.irs-bar-edge,
+label[for="n_"] + span.irs span.irs-bar,
+label[for="n_"] + span.irs span.irs-bar-edge
+{ 
+  background-color: #ca938e;
+  border-color: #9c726d;
+}
+
+label[for="d"] + span.irs span.irs-bar,
+label[for="d"] + span.irs span.irs-bar-edge,
+label[for="d_"] + span.irs span.irs-bar,
+label[for="d_"] + span.irs span.irs-bar-edge
+{ 
+  background-color: #8ec4ca;
+  border-color: #749fa5;
+}
+
+.well {background-color: #9c9c9c;
+	border-color: 5d5d5d}
+
